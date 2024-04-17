@@ -1,0 +1,68 @@
+.title{
+    color: rgb(150, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration:underline
+    
+    
+}
+body{
+    background-color: rgb(0, 0, 0);
+    
+    
+     
+}
+
+h2{
+    color: azure;
+}
+footer{
+    color: aliceblue;
+    text-align: center;
+    
+
+}
+
+.facts{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.contactinfo{
+    color: rgb(70, 155, 155);
+    text-align: center;
+    text-rendering: geometricPrecision;
+}
+.link{
+    text-decoration-line: none;
+    
+}
+a:visited{color: rgb(91, 144, 191);}
+
+img{
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 70%;
+    height:70%;
+}
+
+.tableauPlaceholder{
+    
+}
+
+.copyright{
+text-align: center;
+    text-decoration: dotted;
+    text-decoration-line: overline;
+    
+
+    color:cornflowerblue
+    
+}
+
+a{
+    text-align: center;
+}
